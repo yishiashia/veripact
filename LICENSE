@@ -1,0 +1,32 @@
+VeriPact Repository Licensing Notice
+====================================
+
+Copyright (c) 2026 yishiashia
+
+Unless a file or directory states otherwise, content in this repository is
+licensed according to the following scope:
+
+1. Documentation and written content
+   ---------------------------------
+   Documentation, README files, design notes, specifications, diagrams, and
+   other written or documentation-oriented content are licensed under the
+   Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+   See: LICENSE-DOCS
+
+2. Source code
+   -----------
+   Source code for the VeriPact reference implementation, when published, is
+   intended to be licensed under the MIT License unless a specific file or
+   directory states otherwise.
+
+   See: LICENSE-CODE
+
+3. Third-party material
+   --------------------
+   Third-party material remains subject to its original license and copyright
+   terms. Where applicable, those terms should be identified alongside the
+   relevant material.
+
+At the time this notice was added, this repository primarily contained concept
+and design documentation rather than the public reference implementation.
